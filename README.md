@@ -1,1 +1,2 @@
 This repository contains a Jupyter Notebook that demonstrates how to perform instance segmentation using deep learning. It uses PyTorch and Torchvision to fine-tune a pre-trained Mask R-CNN model on a subset of the Oxford-IIIT Pet dataset, allowing the model to accurately detect pets and separate them from their backgrounds.
+<img width="636" height="658" alt="ExampleInstanceSegmentation" src="https://github.com/user-attachments/assets/370e2454-2995-4777-9bb1-82ee06e0da03" />
